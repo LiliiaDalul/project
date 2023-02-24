@@ -132,5 +132,5 @@ def title_func(string):
 
 title_func('первое слово дороже второго')
 
-
+#the end of 3d lesson
 
