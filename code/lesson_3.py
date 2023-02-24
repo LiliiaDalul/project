@@ -130,7 +130,7 @@ def title_func(string):
         title_list.append(int_func(el))
     print(*title_list)
 
-title_func('первое слово дороже второго')
+title_func('первое слово дороже второго с большой буквы')
 
 #the end of 3d lesson
 
